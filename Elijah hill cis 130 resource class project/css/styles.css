@@ -1,0 +1,28 @@
+body {
+    color: #26352B;
+    background-color: #E8F0E8;
+}
+
+h1 {
+    color: #173F2A;
+    text-align: center;
+}
+
+h2 {
+    color: #2E6B45;
+}
+
+a {
+    color: #2E6B45;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #173F2A;
+}
+
+.highlight {
+    background-color: #D2E5D5;
+    padding: 8px;
+    border-left: 4px solid #2E6B45;
+}
